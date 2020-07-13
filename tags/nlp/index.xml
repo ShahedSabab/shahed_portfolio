@@ -17,7 +17,7 @@
       <pubDate>Thu, 06 Apr 2017 11:00:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/</guid>
-      <description>List of Apps   The objective of this project is sentiment analysis (i.e., Positive, Neutral, Negative) from the popular health and fitness app reviews. For this task, app reviews are collected from the google play store. 10 popular health and fitness apps are chosen. All around 12000 most recent reviews are collected. Ratings are considered as the measure/label of positive, negative, and neutral sentiment of the reviews. The collected data are preprocessed and trained using a transformer model.</description>
+      <description>The objective of this project is sentiment analysis (i.e., Positive, Neutral, Negative) from the popular health and fitness app reviews. For this task, app reviews are collected from the google play store. 10 popular health and fitness apps are chosen. All around 12000 most recent reviews are collected. Ratings are considered as the measure/label of positive, negative, and neutral sentiment of the reviews. The collected data are preprocessed and trained using a transformer model.</description>
     </item>
     
     <item>

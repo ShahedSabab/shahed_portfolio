@@ -17,7 +17,7 @@
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-mask/</guid>
-      <description>Real time mask detection   Many measurements have been taken to tackle the COVID-19 pandemic. Among which, wearing a face mask is one way to prevent spreading the virus. This work aims to detect if a person is wearing a mask or not. With this objective, a machine learning model is developed, which leverages transfer learning to detect mask. For collecting human faces with the mask, a subset (1000 images) of the MAFA dataset is used.</description>
+      <description>Many measurements have been taken to tackle the COVID-19 pandemic. Among which, wearing a face mask is one way to prevent spreading the virus. This work aims to detect if a person is wearing a mask or not. With this objective, a machine learning model is developed, which leverages transfer learning to detect mask. For collecting human faces with the mask, a subset (1000 images) of the MAFA dataset is used.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 06 Apr 2017 11:00:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/</guid>
-      <description>List of Apps   The objective of this project is sentiment analysis (i.e., Positive, Neutral, Negative) from the popular health and fitness app reviews. For this task, app reviews are collected from the google play store. 10 popular health and fitness apps are chosen. All around 12000 most recent reviews are collected. Ratings are considered as the measure/label of positive, negative, and neutral sentiment of the reviews. The collected data are preprocessed and trained using a transformer model.</description>
+      <description>The objective of this project is sentiment analysis (i.e., Positive, Neutral, Negative) from the popular health and fitness app reviews. For this task, app reviews are collected from the google play store. 10 popular health and fitness apps are chosen. All around 12000 most recent reviews are collected. Ratings are considered as the measure/label of positive, negative, and neutral sentiment of the reviews. The collected data are preprocessed and trained using a transformer model.</description>
     </item>
     
     <item>
@@ -148,8 +148,8 @@ The dataset is collected from https://bigml.com/dashboard/dataset/5e92c6d14f6bfd
       <pubDate>Sun, 26 Mar 2017 11:00:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-wheatproduction/</guid>
-      <description>Dashboard presenting analysis on Wheat   The purpose of this project is to gain insights into the agricultural market data of different commodities, e.g., Wheat, Corn, Barley, Oats etc. and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
- The UI supports responsive layouts.</description>
+      <description>The purpose of this project is to gain insights into the agricultural market data of different commodities, e.g., Wheat, Corn, Barley, Oats etc. and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
+ The UI supports responsive layouts. For developing the visualizations, PSD Grain Data_small.</description>
     </item>
     
     <item>
@@ -158,7 +158,7 @@ The dataset is collected from https://bigml.com/dashboard/dataset/5e92c6d14f6bfd
       <pubDate>Sat, 25 Mar 2017 11:00:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</guid>
-      <description>Modify data from Tableau dashboard   The objective of this project is to develop a dynamic dashboard in Tableau which can update the data source. The dataset for this visualization includes wheat consumption (domestic, fsi, feed dom., etc) in Canada over 20 years timeline.
+      <description>The objective of this project is to develop a dynamic dashboard in Tableau which can update the data source. The dataset for this visualization includes wheat consumption (domestic, fsi, feed dom., etc) in Canada over 20 years timeline.
  XAMPP is used to host the data in a local server. The data is fetched from the local server into Tableau. The Tableau dashboard presents a crosstab and a line chart of the time series data.</description>
     </item>
     
