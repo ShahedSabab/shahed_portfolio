@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/post/</link>
+    <description>Recent content on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Face Mask Detection - ResNet, OpenCV</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-mask/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-mask/</guid>
+      <description>Real time mask detection   Many measurements have been taken to tackle the COVID-19 pandemic. Among which, wearing a face mask is one way to prevent spreading the virus. This work aims to detect if a person is wearing a mask or not. With this objective, a machine learning model is developed, which leverages transfer learning to detect mask. For collecting human faces with the mask, a subset (1000 images) of the MAFA dataset is used.</description>
+    </item>
+    
+    <item>
+      <title>TutVis: A Tool to Visualize Tutorials - Topic Modeling, Angular js</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-tutvis/</link>
+      <pubDate>Fri, 07 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-tutvis/</guid>
+      <description>Online text and video tutorials are among the most popular and heavily used resources for learning feature-rich software applications (e.g., Photoshop, Weka, AutoCAD, Fusion 360). However, when searching, users can find it difficult to assess whether a tutorial is designed for their level of expertise. TutVis stands for tutorial visualization, which is a Photoshop tutorial browsing system that provides auto-generated information to assist users in the tutorial searching and selection. The provided information is as follows: difficulty level (advanced/beginner), topics covered, length, text complexity, command usage ratio.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis from Health and Fitness app reviews - BERT</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/</link>
+      <pubDate>Thu, 06 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/</guid>
+      <description>List of Apps   The objective of this project is sentiment analysis (i.e., Positive, Neutral, Negative) from the popular health and fitness app reviews. For this task, app reviews are collected from the google play store. 10 popular health and fitness apps are chosen. All around 12000 most recent reviews are collected. Ratings are considered as the measure/label of positive, negative, and neutral sentiment of the reviews. The collected data are preprocessed and trained using a transformer model.</description>
+    </item>
+    
+    <item>
+      <title>Customer Loan Enquiry - ANN, Django</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-loan/</link>
+      <pubDate>Wed, 05 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-loan/</guid>
+      <description>The objective of this project is to predict if a customer will get a loan given applicant income, loan amount, loan amount term, credit history, education status, self-employment status, property area, etc. A model is trained using the training data on previous customers&amp;rsquo; loan approval history. A web service is created, which runs the trained model in the background. The service presents an interface through which any user can request to get an automated decision/prediction (i.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Parkinson Patient - Feature Selection, Classification</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-parkinsons/</link>
+      <pubDate>Tue, 04 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-parkinsons/</guid>
+      <description>The objective is to detect patients with Parkinson&amp;rsquo;s Disease (PD) from the voice samples. The training data includes voice measurements such as average, maximum, and minimum vocal fundamental frequency, several measures of variation in fundamental frequency, variation in amplitudes, ratio of noise to tonal components, signal fractal scaling exponent and nonlinear measures of fundamental frequency variation. From these measurements, feature-selection (filter and wrapper method) is performed to select essential features for detecting Parkinson.</description>
+    </item>
+    
+    <item>
+      <title>News Classification - LSTM</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-news/</link>
+      <pubDate>Mon, 03 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-news/</guid>
+      <description>The objective of this project is to classify news category from articles. The input data consist of 2225 news articles from the BBC news website corresponding to stories in 5 topical areas (e.g., business, entertainment, politics, sport, tech). LSTM has been applied in the classification task to categorize articles.  TensorFlow 2.0 has been used to train the model. Word embedding is used in feature generation. TSNE is used to visualize the word vectors in 2d space.</description>
+    </item>
+    
+    <item>
+      <title>Earthquake Prediction Dashboard - Spark, Tableau</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</link>
+      <pubDate>Sun, 02 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</guid>
+      <description>The objective is to report the prediction of the earthquake from the historical data. A machine learning model is trained with historical data of the world related to earthquakes from 1965-2016. The data includes geographical location and magnitude of the earthquakes (23.5k samples). The model predicts earthquake magnitude for the year of 2017. Finally, a dashboard is created to visualize the prediction in addition to the historical analysis on the data.</description>
+    </item>
+    
+    <item>
+      <title>Fake or Real Tweets - BERT, LSTM, TF-IDF</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-fakeorreal/</link>
+      <pubDate>Sun, 02 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-fakeorreal/</guid>
+      <description>The dataset includes tweets about disasters, e.g., earthquake, wildfire. The objective is to detect if the tweet is about a real disaster vs. fake disaster. Different approaches have been performed for data cleaning and training the model. The best model can predict real vs. fake tweets with 89% accuracy using transfer learning (BERT).
+The following models have been developed for training: BOW Model with Logistic Regression. (accuracy 77%) Tf-Idf with Logistic Regression.</description>
+    </item>
+    
+    <item>
+      <title>Weather Prediction - Bidirectional LSTM</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-weather/</link>
+      <pubDate>Sat, 01 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-weather/</guid>
+      <description>This project predicts weather (i.e., min-max temperature) from historical data. The dataset includes hourly inputs of pressure, humidity, temperature, wind speed, and wind direction of 36 cities from the year 2012 to 2017. From the dataset preprocessing is done to engineer attributes to predict min and max temperature of Toronto. Data from 2012-2016 is used as the training dataset, while the attempt is to predict the min and max temp of 2017.</description>
+    </item>
+    
+    <item>
+      <title>Price Forecasting - Facebook Prophet</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/</link>
+      <pubDate>Thu, 30 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/</guid>
+      <description>The objective of this project is to forecast the future price of Avocado. The data presents a time series of the average Avocado price of different regions in the US over 4 years timeline. The data from the years 2015-2017 have been used to forecast the average price of Avocado in 2018. Different exploratory data analysis (EDA) has been performed to gain insights from the data.
+ EDA included: analyzing distributions (violin plot), regions affecting price hike (box plot), and trends (line plot).</description>
+    </item>
+    
+    <item>
+      <title>Stroke Prediction - Spark, MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-storke/</link>
+      <pubDate>Wed, 29 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-storke/</guid>
+      <description>The objective is to predict brain stroke from patient&amp;rsquo;s records such as age, bmi score, heart problem, hypertension and smoking practice. The dataset includes 100k patient records. Among the records, 1.5% of them are related to stroke patients and the remaining 98.5% of them are related to non-stroke patients. Therefore, the data is extremely imbalanced.
+The dataset is collected from https://bigml.com/dashboard/dataset/5e92c6d14f6bfd2dd00044a9
+ Dataproc and Google Cloud Platform is used to set up spark clusters.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Food Preparation Time (SkipTheDishes) - Doc2Vec</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</link>
+      <pubDate>Tue, 28 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</guid>
+      <description>The objective is to predict food preparation time from ordered food items and quantity. This is a data challenge arranged by SkipTheDishes, Canada&amp;rsquo;s leading and largest food delivery company. The data includes upto 10 ordered food items along with the quantity. There are 20 features and 80,000 samples in the data. The goal is to predict food preparation time.
+ Doc2Vec has been applied to vectorize food item names and feature engineering.</description>
+    </item>
+    
+    <item>
+      <title>COVID 19 USA Dashboard - Tableau</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-usdashboard/</link>
+      <pubDate>Mon, 27 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-usdashboard/</guid>
+      <description>An interactive visualization dashboard including different states&amp;rsquo; (of USA) confirmed cases and the number of deaths. The visualization presents different calculations such as top N states (i.e., N can be changed from the dashboard) with total confirmed cases and deaths, new cases and deaths; case fatality rates (CFR) on time series data collected from https://github.com/nytimes/covid-19-data. The interactive dashboard is created using Tableau Desktop. Different pie charts, maps, line charts, and stack bars are used in this visualization.</description>
+    </item>
+    
+    <item>
+      <title>COVID 19 World Visualization Dashboard - Tableau</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-worlddashboard/</link>
+      <pubDate>Sun, 26 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-worlddashboard/</guid>
+      <description>The dashboard presents an interactive visualization of the latest COVID-19 updates. It includes the trend line of the time series data, geographic map, cumulative &amp;amp; newly confirmed, active, death, and recovered cases. It also presents a calculation on Case Fatality Rate (CFR), confirmed &amp;amp; death cases in 100,000. The regular update is taken from https://github.com/datasets/covid-19. Data is preprocessed using Tableau prep builder. Tableau is used for the visualization. In this visualization, users can drill down to the country to see region-specific details (new cases and trends) and also overall comparisons among different regions.</description>
+    </item>
+    
+    <item>
+      <title>Web Dashboard on Canadian Wheat Production - Tableau, D3 js, Chart js, Angular js</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-wheatproduction/</link>
+      <pubDate>Sun, 26 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-wheatproduction/</guid>
+      <description>Dashboard presenting analysis on Wheat   The purpose of this project is to gain insights into the agricultural market data of different commodities, e.g., Wheat, Corn, Barley, Oats etc. and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
+ The UI supports responsive layouts.</description>
+    </item>
+    
+    <item>
+      <title>DynamicViz: Change data in real time. - Tableau, Django, REST API</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</link>
+      <pubDate>Sat, 25 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</guid>
+      <description>Modify data from Tableau dashboard   The objective of this project is to develop a dynamic dashboard in Tableau which can update the data source. The dataset for this visualization includes wheat consumption (domestic, fsi, feed dom., etc) in Canada over 20 years timeline.
+ XAMPP is used to host the data in a local server. The data is fetched from the local server into Tableau. The Tableau dashboard presents a crosstab and a line chart of the time series data.</description>
+    </item>
+    
+    <item>
+      <title>Handwritten Digits Classification - CNN</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-digit/</link>
+      <pubDate>Fri, 24 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-digit/</guid>
+      <description>Classification of the handwritten digits (0-9) has been performed using CNN. The data set includes 60,000 training samples and 10,000 testing samples. The dataset is collected from MNIST.
+ Tensorflow 2.0 is used. The model includes 2 conv, 2 maxpool, 1 dense, 1 dropout layers. Earlystopping is performed.  99% accuracy is achieved.  This Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Rain Prediction - ANN</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-rain/</link>
+      <pubDate>Thu, 23 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-rain/</guid>
+      <description>The purpose of this project is to predict if it will rain tomorrow. The data includes weather information (i.e., temperature, evaporation, wind speed, humidity, pressure and cloud status) of different locations in Australia. The data is quite imbalanced having a few instances of rain information. The objective is to train a neural network to predict rain tomorrow from the given information.
+ Pytorch is used for training.  Feature selection is performed using Pearson&amp;rsquo;s correlation.</description>
+    </item>
+    
+    <item>
+      <title>Customer Churn Detection - Spark, MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-churn/</link>
+      <pubDate>Wed, 22 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-churn/</guid>
+      <description>The dataset includes different information about customers. The objective is to predict customer churn from the data. The input data is highly imbalanced consisting 150 churn (i.e., churn = 1) and 750 no churn (i.e., churn = 0) customers. Check the customer_churn.csv dataset for details.
+ MLlib and PySpark is used to build the model.  Feature vectorization is performed to convert the categorical features. Random undersampling is performed to the majority class (i.</description>
+    </item>
+    
+    <item>
+      <title>Intent Detection - BERT</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-intent/</link>
+      <pubDate>Wed, 22 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-intent/</guid>
+      <description>The objective of this project is to detect intent from texts. For this, a benchmark dataset is used, which includes 7 intents (Search Creative Work, get weather, Book Restaurant, Play Music, Add to Playlist, Rate Book, Search Screening Event) and 14 thousand samples. Transfer learning has been leveraged to train a machine learning model. The model takes the raw texts, which are tokenized and vectorized to feed into the pre-trained model.</description>
+    </item>
+    
+    <item>
+      <title>Spam Detection - Spark, MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-spam/</link>
+      <pubDate>Tue, 21 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-spam/</guid>
+      <description>The objective of this project is to detect spam messages. The dataset includes tagged SMS messages. It contains 5,574 English SMS messages in total; tagged as ham or spam. Check the SMSSpamCollection dataset for details.
+ MLlib with PySpark is used to build the model.  Preprocessing steps are performed and feature engineering is applied using TF-IDF. Logistic regression, Random Forest and Naive Bayes are used for classifications. The best performance is achieved for the Logistic regression with 97% accuracy.</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction - Regression</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-houseprice/</link>
+      <pubDate>Mon, 20 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-houseprice/</guid>
+      <description>The objecive of this project is to predict house price from different features. The dataset includes 1460 instances and 80 features. The following algorithms are applied as on selected features from the data:
+Applied Algorithms:  Linear Regression  Decision Tree  SVM  Random Forest  AdaBoost  GradientBoost  XGBoost  Feature selection is performed using Parson Correlation.  Feature imputation, encoding, and scaling is performed.  The best performance achieved is R-square = 0.</description>
+    </item>
+    
+    <item>
+      <title>Eye Pointer: A system designed for amputees - Haar Cascade, OpenCV, C#</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-eyepointer/</link>
+      <pubDate>Sun, 19 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-eyepointer/</guid>
+      <description>The objective of this project is to develop a system for physically impaired people who do not have a pair of working hands. The system provides different functionalities to the users: navigate computers using head movements, eye blink for clicking, different head gestures to read documents, and watch multimedia. The system is developed using C#. The head movement is tracked using EmguCV (OpenCV wrapper) and some heuristic calculations. Blink detection is performed using haarcascade of eyes.</description>
+    </item>
+    
+    <item>
+      <title>Blind Reader - A pdf reader designed for blinds - Android, Java</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-blindreader/</link>
+      <pubDate>Sat, 18 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-blindreader/</guid>
+      <description>A pdf reader that allows a blind person to read documents. The concept is to use the haptic touch on the screen and speak aloud the word on tap. This system provides some smart features e.g., dynamic scrolling, line checking and vibration notification for the line break. The system is built on the Android platform. The smart feature - dynamic scrolling leverages the phone gyroscope reading and can detect tilt. Based on the tilt angle it triggers the scrolling.</description>
+    </item>
+    
+    <item>
+      <title>eExpense: A smart approach to track everyday expenses - Android, Java, Tesseract-OCR</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-eexpense/</link>
+      <pubDate>Thu, 16 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-eexpense/</guid>
+      <description>eExpense is a smart system that keeps track of everyday expenses. Some of the key functionalities of this app are automatically detecting expenses from text messages, automatically taking input from the receipts, creating a balance sheet, showing history in the calendar view.  The system is built on the Android platform.  The input from receipts is taken using Tesseract OCR (Optical Character Recognition) engine.  Publication Source: Check the publication</description>
+    </item>
+    
+    <item>
+      <title>Hand Swifter: Control computer with hand gestures - Haar Cascade, OpenCV, C#</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-handswifter/</link>
+      <pubDate>Tue, 14 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-handswifter/</guid>
+      <description>A system to replace the traditional mouse and keyboard that only uses hand gestures to control computers. This system focuses on navigating computers, reading documents and controlling multimedia like videos, pictures. This multimodal system uses a leap motion device and a webcam to capture hand movements and different gestures.
+ Real-time tracking of hand movement. (haarcascade, Viola-Jones)  Implements the Kalman filter for smoothing.  Captures hand gesture with leap motion device.</description>
+    </item>
+    
+    <item>
+      <title>Pointer Security: A security system for computers - C#</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-pointersecurity/</link>
+      <pubDate>Sun, 12 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-pointersecurity/</guid>
+      <description>A security system for computers which runs as the background process and tracks keyboard or mouse inputs. Any unauthorized input triggers this system and sends a notification to the user’s phone through text messages (GSM). Users can use a mobile app (named Pointer Security) to see the live webcam feed, screen streaming and check who is using the computer and can send commands remotely through the app to either shut down or lock the computer.</description>
+    </item>
+    
+  </channel>
+</rss>

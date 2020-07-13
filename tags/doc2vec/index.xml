@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doc2Vec on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/doc2vec/</link>
+    <description>Recent content in Doc2Vec on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/doc2vec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Food Preparation Time (SkipTheDishes) - Doc2Vec</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</link>
+      <pubDate>Tue, 28 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</guid>
+      <description>The objective is to predict food preparation time from ordered food items and quantity. This is a data challenge arranged by SkipTheDishes, Canada&amp;rsquo;s leading and largest food delivery company. The data includes upto 10 ordered food items along with the quantity. There are 20 features and 80,000 samples in the data. The goal is to predict food preparation time.
+ Doc2Vec has been applied to vectorize food item names and feature engineering.</description>
+    </item>
+    
+  </channel>
+</rss>

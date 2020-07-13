@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/</link>
+    <description>Recent content in Tags on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/computer-vision/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/opencv/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/transfer-learning/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/angular/</link>
+      <pubDate>Fri, 07 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/topic-modeling/</link>
+      <pubDate>Fri, 07 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/nlp/</link>
+      <pubDate>Thu, 06 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANN</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/ann/</link>
+      <pubDate>Wed, 05 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/ann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/django/</link>
+      <pubDate>Wed, 05 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Selection</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/feature-selection/</link>
+      <pubDate>Tue, 04 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/rnn/</link>
+      <pubDate>Mon, 03 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/spark/</link>
+      <pubDate>Sun, 02 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/tableau/</link>
+      <pubDate>Sun, 02 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/forecast/</link>
+      <pubDate>Thu, 30 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/mlib/</link>
+      <pubDate>Wed, 29 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/mlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doc2Vec</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/doc2vec/</link>
+      <pubDate>Tue, 28 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/doc2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/regression/</link>
+      <pubDate>Tue, 28 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/rest/</link>
+      <pubDate>Sat, 25 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/cnn/</link>
+      <pubDate>Fri, 24 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C-Sharp</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/c-sharp/</link>
+      <pubDate>Sun, 19 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/c-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/object-detection/</link>
+      <pubDate>Sun, 19 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/object-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/android/</link>
+      <pubDate>Sat, 18 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/java/</link>
+      <pubDate>Sat, 18 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCR</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/ocr/</link>
+      <pubDate>Thu, 16 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/ocr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

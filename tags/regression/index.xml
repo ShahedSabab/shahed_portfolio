@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/regression/</link>
+    <description>Recent content in Regression on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Food Preparation Time (SkipTheDishes) - Doc2Vec</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</link>
+      <pubDate>Tue, 28 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</guid>
+      <description>The objective is to predict food preparation time from ordered food items and quantity. This is a data challenge arranged by SkipTheDishes, Canada&amp;rsquo;s leading and largest food delivery company. The data includes upto 10 ordered food items along with the quantity. There are 20 features and 80,000 samples in the data. The goal is to predict food preparation time.
+ Doc2Vec has been applied to vectorize food item names and feature engineering.</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction - Regression</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-houseprice/</link>
+      <pubDate>Mon, 20 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-houseprice/</guid>
+      <description>The objecive of this project is to predict house price from different features. The dataset includes 1460 instances and 80 features. The following algorithms are applied as on selected features from the data:
+Applied Algorithms:  Linear Regression  Decision Tree  SVM  Random Forest  AdaBoost  GradientBoost  XGBoost  Feature selection is performed using Parson Correlation.  Feature imputation, encoding, and scaling is performed.  The best performance achieved is R-square = 0.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/django/</link>
+    <description>Recent content in Django on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer Loan Enquiry - ANN, Django</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-loan/</link>
+      <pubDate>Wed, 05 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-loan/</guid>
+      <description>The objective of this project is to predict if a customer will get a loan given applicant income, loan amount, loan amount term, credit history, education status, self-employment status, property area, etc. A model is trained using the training data on previous customers&amp;rsquo; loan approval history. A web service is created, which runs the trained model in the background. The service presents an interface through which any user can request to get an automated decision/prediction (i.</description>
+    </item>
+    
+    <item>
+      <title>DynamicViz: Change data in real time. - Tableau, Django, REST API</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</link>
+      <pubDate>Sat, 25 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</guid>
+      <description>Modify data from Tableau dashboard   The objective of this project is to develop a dynamic dashboard in Tableau which can update the data source. The dataset for this visualization includes wheat consumption (domestic, fsi, feed dom., etc) in Canada over 20 years timeline.
+ XAMPP is used to host the data in a local server. The data is fetched from the local server into Tableau. The Tableau dashboard presents a crosstab and a line chart of the time series data.</description>
+    </item>
+    
+  </channel>
+</rss>

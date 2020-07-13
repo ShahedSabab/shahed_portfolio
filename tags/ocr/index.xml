@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCR on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/ocr/</link>
+    <description>Recent content in OCR on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/ocr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eExpense: A smart approach to track everyday expenses - Android, Java, Tesseract-OCR</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-eexpense/</link>
+      <pubDate>Thu, 16 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-eexpense/</guid>
+      <description>eExpense is a smart system that keeps track of everyday expenses. Some of the key functionalities of this app are automatically detecting expenses from text messages, automatically taking input from the receipts, creating a balance sheet, showing history in the calendar view.  The system is built on the Android platform.  The input from receipts is taken using Tesseract OCR (Optical Character Recognition) engine.  Publication Source: Check the publication</description>
+    </item>
+    
+  </channel>
+</rss>

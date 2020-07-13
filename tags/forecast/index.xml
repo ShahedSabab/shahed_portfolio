@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecast on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/forecast/</link>
+    <description>Recent content in Forecast on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/forecast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Price Forecasting - Facebook Prophet</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/</link>
+      <pubDate>Thu, 30 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/</guid>
+      <description>The objective of this project is to forecast the future price of Avocado. The data presents a time series of the average Avocado price of different regions in the US over 4 years timeline. The data from the years 2015-2017 have been used to forecast the average price of Avocado in 2018. Different exploratory data analysis (EDA) has been performed to gain insights from the data.
+ EDA included: analyzing distributions (violin plot), regions affecting price hike (box plot), and trends (line plot).</description>
+    </item>
+    
+  </channel>
+</rss>

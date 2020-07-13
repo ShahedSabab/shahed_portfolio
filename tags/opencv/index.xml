@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenCV on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/opencv/</link>
+    <description>Recent content in OpenCV on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Face Mask Detection - ResNet, OpenCV</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-mask/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-mask/</guid>
+      <description>Real time mask detection   Many measurements have been taken to tackle the COVID-19 pandemic. Among which, wearing a face mask is one way to prevent spreading the virus. This work aims to detect if a person is wearing a mask or not. With this objective, a machine learning model is developed, which leverages transfer learning to detect mask. For collecting human faces with the mask, a subset (1000 images) of the MAFA dataset is used.</description>
+    </item>
+    
+    <item>
+      <title>Eye Pointer: A system designed for amputees - Haar Cascade, OpenCV, C#</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-eyepointer/</link>
+      <pubDate>Sun, 19 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-eyepointer/</guid>
+      <description>The objective of this project is to develop a system for physically impaired people who do not have a pair of working hands. The system provides different functionalities to the users: navigate computers using head movements, eye blink for clicking, different head gestures to read documents, and watch multimedia. The system is developed using C#. The head movement is tracked using EmguCV (OpenCV wrapper) and some heuristic calculations. Blink detection is performed using haarcascade of eyes.</description>
+    </item>
+    
+    <item>
+      <title>Hand Swifter: Control computer with hand gestures - Haar Cascade, OpenCV, C#</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-handswifter/</link>
+      <pubDate>Tue, 14 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-handswifter/</guid>
+      <description>A system to replace the traditional mouse and keyboard that only uses hand gestures to control computers. This system focuses on navigating computers, reading documents and controlling multimedia like videos, pictures. This multimodal system uses a leap motion device and a webcam to capture hand movements and different gestures.
+ Real-time tracking of hand movement. (haarcascade, Viola-Jones)  Implements the Kalman filter for smoothing.  Captures hand gesture with leap motion device.</description>
+    </item>
+    
+  </channel>
+</rss>
