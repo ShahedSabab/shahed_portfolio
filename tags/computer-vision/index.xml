@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>License Plate Extraction - YOLO v4, Vision API (GCP)</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-licenseplate/</link>
+      <pubDate>Sat, 08 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-licenseplate/</guid>
+      <description>The objective is to extract the registration/license plate number from different vehicle images. The task is divided into two parts. First, detect the possible ROI(region of interest) - in this case, it is the license plate of vehicles. Second, extract the letters and numbers from the detected region. To separate ROI from the images, object detection model - YOLO v4 is used. YOLO v4 (You only look once) is a family of one-stage object detectors that are fast (i.</description>
+    </item>
+    
+    <item>
       <title>Handwritten Digits Classification - CNN</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-digit/</link>
       <pubDate>Fri, 24 Mar 2017 11:00:59 -0400</pubDate>
