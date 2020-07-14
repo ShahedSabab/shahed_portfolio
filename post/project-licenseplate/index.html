@@ -30,13 +30,13 @@
 <meta property="og:description" content="Extract vehicle&#39;s license plate numbers from images" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://shahedsabab.github.io/shahed_portfolio/post/project-licenseplate/" />
-<meta property="article:published_time" content="2017-04-08T10:58:08-04:00" />
-<meta property="article:modified_time" content="2017-04-08T10:58:08-04:00" />
+<meta property="article:published_time" content="2017-04-06T10:58:08-04:00" />
+<meta property="article:modified_time" content="2017-04-06T10:58:08-04:00" />
 <meta itemprop="name" content="License Plate Extraction - YOLO v4, Vision API (GCP)">
 <meta itemprop="description" content="Extract vehicle&#39;s license plate numbers from images">
-<meta itemprop="datePublished" content="2017-04-08T10:58:08-04:00" />
-<meta itemprop="dateModified" content="2017-04-08T10:58:08-04:00" />
-<meta itemprop="wordCount" content="186">
+<meta itemprop="datePublished" content="2017-04-06T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2017-04-06T10:58:08-04:00" />
+<meta itemprop="wordCount" content="182">
 
 
 
@@ -186,7 +186,7 @@
       <h1 class="f1 athelas mt3 mb1">License Plate Extraction - YOLO v4, Vision API (GCP)</h1>
       
       
-      <time class="f6 mv3 dib tracked" datetime="2017-04-08T10:58:08-04:00">
+      <time class="f6 mv3 dib tracked" datetime="2017-04-06T10:58:08-04:00">
 
       </time>
 
@@ -194,10 +194,12 @@
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>The objective is to extract the registration/license plate number from different vehicle images. The task is divided into two parts. First, detect the possible ROI(region of interest) - in this case, it is the license plate of vehicles. Second, extract the letters and numbers from the detected region. To separate ROI from the images, object detection model - YOLO v4 is used. YOLO v4 (You only look once) is a family of one-stage object detectors that are fast (i.e., able to give real-time results) and accurate. To support license plate detection, this model is trained with a custom dataset. The trained model can separate multiple ROI&rsquo;s(i.e., license plates) from the image. The detected license plate images are then processed for OCR (i.e., Optical Character Recognition).</p>
-<p>• 1000 custom dataset is collected from the Open Images Dataset V6 to train the YOLO v4 model.
-• The performance achieved from the model is Mean Average Precision, mAP = 91%.
-• The model can detect multiple ROI&rsquo;s (license plate images).
-• Google Vision API is used to extract the numbers/letters from the detected license plates.</p>
+<ul>
+<li>1000 custom dataset is collected from the Open Images Dataset V6 to train the YOLO v4 model.</li>
+<li>The performance achieved from the model is Mean Average Precision, mAP = 91%.</li>
+<li>The model can detect multiple ROI&rsquo;s (license plate images).</li>
+<li>Google Vision API is used to extract the numbers/letters from the detected license plates.</li>
+</ul>
 <p><a href="https://github.com/ShahedSabab/License-plate-extraction-YOLOV4">This Project&rsquo;s GitHub Repository</a></p>
 <ul class="pa0">
   
