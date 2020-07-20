@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Fake or Real Tweets - BERT, LSTM, TF-IDF | Shahed Anzarus Sabab</title>
+    <title>Forecast Energy Consumption - ARIMA, PROPHET, LSTM | Shahed Anzarus Sabab</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="generator" content="Hugo 0.73.0" />
     
@@ -26,23 +26,23 @@
 
     
     
-    <meta property="og:title" content="Fake or Real Tweets - BERT, LSTM, TF-IDF" />
-<meta property="og:description" content="Detect fake or real tweets and compare different models&#39; performance" />
+    <meta property="og:title" content="Forecast Energy Consumption - ARIMA, PROPHET, LSTM" />
+<meta property="og:description" content="The objective is to forecast monthly energy consumption from time series data." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://shahedsabab.github.io/shahed_portfolio/post/project-fakeorreal/" />
-<meta property="article:published_time" content="2017-04-02T11:00:59-04:00" />
-<meta property="article:modified_time" content="2017-04-02T11:00:59-04:00" />
-<meta itemprop="name" content="Fake or Real Tweets - BERT, LSTM, TF-IDF">
-<meta itemprop="description" content="Detect fake or real tweets and compare different models&#39; performance">
-<meta itemprop="datePublished" content="2017-04-02T11:00:59-04:00" />
-<meta itemprop="dateModified" content="2017-04-02T11:00:59-04:00" />
-<meta itemprop="wordCount" content="93">
+<meta property="og:url" content="https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/" />
+<meta property="article:published_time" content="2017-03-30T11:00:59-04:00" />
+<meta property="article:modified_time" content="2017-03-30T11:00:59-04:00" />
+<meta itemprop="name" content="Forecast Energy Consumption - ARIMA, PROPHET, LSTM">
+<meta itemprop="description" content="The objective is to forecast monthly energy consumption from time series data.">
+<meta itemprop="datePublished" content="2017-03-30T11:00:59-04:00" />
+<meta itemprop="dateModified" content="2017-03-30T11:00:59-04:00" />
+<meta itemprop="wordCount" content="132">
 
 
 
-<meta itemprop="keywords" content="RNN,Transfer Learning,NLP," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Fake or Real Tweets - BERT, LSTM, TF-IDF"/>
-<meta name="twitter:description" content="Detect fake or real tweets and compare different models&#39; performance"/>
+<meta itemprop="keywords" content="Time Series,PROPHET,RNN," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Forecast Energy Consumption - ARIMA, PROPHET, LSTM"/>
+<meta name="twitter:description" content="The objective is to forecast monthly energy consumption from time series data."/>
 
 	
   </head>
@@ -55,7 +55,7 @@
 
   
   
-  <header class="cover bg-top" style="background-image: url('https://shahedsabab.github.io/shahed_portfolio/images/realOrfake.jpg');">
+  <header class="cover bg-top" style="background-image: url('https://shahedsabab.github.io/shahed_portfolio/images/energy.png');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -160,10 +160,10 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Fake or Real Tweets - BERT, LSTM, TF-IDF</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Forecast Energy Consumption - ARIMA, PROPHET, LSTM</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              Detect fake or real tweets and compare different models&#39; performance
+              The objective is to forecast monthly energy consumption from time series data.
             </h2>
           
         
@@ -183,37 +183,36 @@
         
       </aside>
 
-      <h1 class="f1 athelas mt3 mb1">Fake or Real Tweets - BERT, LSTM, TF-IDF</h1>
+      <h1 class="f1 athelas mt3 mb1">Forecast Energy Consumption - ARIMA, PROPHET, LSTM</h1>
       
       
-      <time class="f6 mv3 dib tracked" datetime="2017-04-02T11:00:59-04:00">
+      <time class="f6 mv3 dib tracked" datetime="2017-03-30T11:00:59-04:00">
 
       </time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>The dataset includes tweets about disasters, e.g., earthquake, wildfire. The objective is to detect if the tweet is about a real disaster vs. fake disaster. Different approaches have been performed for data cleaning and training the model. The best model can predict real vs. fake tweets with 89% accuracy using transfer learning (BERT).</p>
-<p>The following models have been developed for training:<!-- raw HTML omitted --></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Forecasting energy consumption can be crucial to have a sense of how much energy/power needs to be produced. The objective of this work is to predict future monthly energy consumption from time-series data. The data includes hourly energy consumption of different states in the US collected by a regional transmission organization - PJM. Different exploratory data analysis are performed on the data to detect the daily, weekly, monthly, and yearly trends. To predict future energy consumption, several models (ARIMA, PROPHET, LSTM) are trained on the time series data. Finally, the performance of different models is compared to predict monthly energy consumption.</p>
+<p>The following models are trained:</p>
 <ul>
-<li>BOW Model with Logistic Regression. (accuracy 77%)<!-- raw HTML omitted --></li>
-<li>Tf-Idf with Logistic Regression. (accuracy 78%)<!-- raw HTML omitted --></li>
-<li>Word2Vec with LSTM. (accuracy 80%)<!-- raw HTML omitted --></li>
-<li>BERT [BERT-large 24 layer, 1024 hidden, 16 heads] (accuracy 89%)<!-- raw HTML omitted --></li>
+<li>PROPHET with &amp; without holidays. (R2: 0.84, MAPE: 3.5%) <!-- raw HTML omitted --></li>
+<li>Seasonal ARIMA - SARIMAX. (R2: 0.77, MAPE: 4%) <!-- raw HTML omitted --></li>
+<li>LSTM. (R2: 0.60, MAPE: 6.2%)<!-- raw HTML omitted --></li>
 </ul>
-<p><a href="https://github.com/ShahedSabab/Fake-or-Not">This Project&rsquo;s GitHub Repository</a></p>
+<p><a href="https://github.com/ShahedSabab/forecast-energy-consumption">This Project&rsquo;s GitHub Repository</a></p>
 <ul class="pa0">
   
    <li class="list">
+     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/time-series" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Time Series</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/prophet" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">PROPHET</a>
+   </li>
+  
+   <li class="list">
      <a href="https://shahedsabab.github.io/shahed_portfolio/tags/rnn" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">RNN</a>
-   </li>
-  
-   <li class="list">
-     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/transfer-learning" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Transfer Learning</a>
-   </li>
-  
-   <li class="list">
-     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/nlp" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">NLP</a>
    </li>
   
 </ul>
@@ -233,15 +232,7 @@
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-intent/">Intent Detection - BERT</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-weather/">Weather Prediction - Bidirectional LSTM</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/">Forecast Energy Consumption - ARIMA, PROPHET, LSTM</a>
+          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/">Price Forecasting - Facebook Prophet</a>
         </li>
 	    
     </ul>

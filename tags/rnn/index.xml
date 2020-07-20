@@ -39,5 +39,14 @@ The following models have been developed for training: BOW Model with Logistic R
       <description>This project predicts weather (i.e., min-max temperature) from historical data. The dataset includes hourly inputs of pressure, humidity, temperature, wind speed, and wind direction of 36 cities from the year 2012 to 2017. From the dataset preprocessing is done to engineer attributes to predict min and max temperature of Toronto. Data from 2012-2016 is used as the training dataset, while the attempt is to predict the min and max temp of 2017.</description>
     </item>
     
+    <item>
+      <title>Forecast Energy Consumption - ARIMA, PROPHET, LSTM</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/</link>
+      <pubDate>Thu, 30 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/</guid>
+      <description>Forecasting energy consumption can be crucial to have a sense of how much energy/power needs to be produced. The objective of this work is to predict future monthly energy consumption from time-series data. The data includes hourly energy consumption of different states in the US collected by a regional transmission organization - PJM. Different exploratory data analysis are performed on the data to detect the daily, weekly, monthly, and yearly trends.</description>
+    </item>
+    
   </channel>
 </rss>

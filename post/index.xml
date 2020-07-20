@@ -103,6 +103,15 @@ The following models have been developed for training: BOW Model with Logistic R
     </item>
     
     <item>
+      <title>Forecast Energy Consumption - ARIMA, PROPHET, LSTM</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/</link>
+      <pubDate>Thu, 30 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/</guid>
+      <description>Forecasting energy consumption can be crucial to have a sense of how much energy/power needs to be produced. The objective of this work is to predict future monthly energy consumption from time-series data. The data includes hourly energy consumption of different states in the US collected by a regional transmission organization - PJM. Different exploratory data analysis are performed on the data to detect the daily, weekly, monthly, and yearly trends.</description>
+    </item>
+    
+    <item>
       <title>Price Forecasting - Facebook Prophet</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/</link>
       <pubDate>Thu, 30 Mar 2017 11:00:59 -0400</pubDate>

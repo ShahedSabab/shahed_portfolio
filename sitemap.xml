@@ -185,7 +185,7 @@
   </url>
   
   <url>
-    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/forecast/</loc>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-energyforecast/</loc>
     <lastmod>2017-03-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -193,6 +193,20 @@
   
   <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-priceforecast/</loc>
+    <lastmod>2017-03-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/prophet/</loc>
+    <lastmod>2017-03-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/time-series/</loc>
     <lastmod>2017-03-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
