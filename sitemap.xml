@@ -52,6 +52,48 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/classification/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/docker/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/feature-selection/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/flask/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-heartdisease/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/streamlit/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/tags/topic-modeling/</loc>
     <lastmod>2017-04-07T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -123,13 +165,6 @@
   
   <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-parkinsons/</loc>
-    <lastmod>2017-04-04T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/feature-selection/</loc>
     <lastmod>2017-04-04T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
