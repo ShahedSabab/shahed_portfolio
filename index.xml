@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Heart Disease Prediction - Classification, Flask, Streamlit, Docker, Feature Selection</title>
-      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-heartdisease/</link>
-      <pubDate>Fri, 07 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-heartdisease/</guid>
-      <description>Heart disease or Cardiovascular disease is one of the biggest causes of mortality (i.e., causing 1 out of 4 deaths in the US) among the population of the world. Therefore, prediction of Cardiovascular disease is considered one of the important subjects in clinical data analysis. However, several contributory risk factors such as diabetes, high blood pressure, high cholesterol, abnormal pulse rate, etc. lead to cardiac arrest. So, the purpose of this work is to predict if any patient has the chance of having heart disease or not.</description>
-    </item>
-    
-    <item>
       <title>TutVis: A Tool to Visualize Tutorials - Topic Modeling, Angular js</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-tutvis/</link>
       <pubDate>Fri, 07 Apr 2017 11:00:59 -0400</pubDate>
@@ -63,6 +54,15 @@
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-loan/</guid>
       <description>The objective of this project is to predict if a customer will get a loan given applicant income, loan amount, loan amount term, credit history, education status, self-employment status, property area, etc. A model is trained using the training data on previous customers&amp;rsquo; loan approval history. A web service is created, which runs the trained model in the background. The service presents an interface through which any user can request to get an automated decision/prediction (i.</description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Prediction - Classification, Flask, Streamlit, Docker, Feature Selection</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-heartdisease/</link>
+      <pubDate>Wed, 05 Apr 2017 11:00:59 -0300</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-heartdisease/</guid>
+      <description>Heart disease or Cardiovascular disease is one of the biggest causes of mortality (i.e., causing 1 out of 4 deaths in the US) among the population of the world. Therefore, prediction of Cardiovascular disease is considered one of the important subjects in clinical data analysis. However, several contributory risk factors such as diabetes, high blood pressure, high cholesterol, abnormal pulse rate, etc. lead to cardiac arrest. So, the purpose of this work is to predict if any patient has the chance of having heart disease or not.</description>
     </item>
     
     <item>
