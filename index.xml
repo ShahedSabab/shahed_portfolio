@@ -152,22 +152,22 @@ The dataset is collected from https://bigml.com/dashboard/dataset/5e92c6d14f6bfd
     </item>
     
     <item>
+      <title>Fish Telemetry Data Analysis -  R</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</link>
+      <pubDate>Mon, 27 Mar 2017 11:02:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</guid>
+      <description>A small subset of the Lake Winnipeg telemetry data is collected. The purpose is to analyze this data to find out interesting insights about the fish inhabitants. A few highlights are as follows: the distribution of different species, the certain area where specific species can be found, and the time period of their perambulation. The data has the following attributes:
+ Date - A timestamp for when a receiver (station) detects a transmitter detection Name - A unique station name for each receiver in the study ReceiverLong - The longitude of the receiver ReceiverLat - The latitude of the receiver FishID - A unique identifier for each species tagged in the study Species - Species of the tagged fish  This Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>COVID 19 USA Dashboard - Tableau</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-usdashboard/</link>
       <pubDate>Mon, 27 Mar 2017 11:00:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-usdashboard/</guid>
       <description>An interactive visualization dashboard including different states&amp;rsquo; (of USA) confirmed cases and the number of deaths. The visualization presents different calculations such as top N states (i.e., N can be changed from the dashboard) with total confirmed cases and deaths, new cases and deaths; case fatality rates (CFR) on time series data collected from https://github.com/nytimes/covid-19-data. The interactive dashboard is created using Tableau Desktop. Different pie charts, maps, line charts, and stack bars are used in this visualization.</description>
-    </item>
-    
-    <item>
-      <title>Fish Telemetry Data Analysis -  R</title>
-      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</link>
-      <pubDate>Sun, 26 Mar 2017 11:01:59 -0400</pubDate>
-      
-      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</guid>
-      <description>A small subset of the Lake Winnipeg telemetry data is collected. The purpose is to analyze this data to find out interesting insights about the fish inhabitants. A few highlights are as follows: the distribution of different species, the certain area where specific species can be found, and the time period of their perambulation. The data has the following attributes:
- Date - A timestamp for when a receiver (station) detects a transmitter detection Name - A unique station name for each receiver in the study ReceiverLong - The longitude of the receiver ReceiverLat - The latitude of the receiver FishID - A unique identifier for each species tagged in the study Species - Species of the tagged fish  This Project&amp;rsquo;s GitHub Repository</description>
     </item>
     
     <item>
