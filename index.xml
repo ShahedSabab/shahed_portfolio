@@ -267,6 +267,16 @@ Applied Algorithms:  Linear Regression  Decision Tree  SVM  Random Forest  AdaBo
     </item>
     
     <item>
+      <title>Fish Telemetry Data Analysis -  R</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</link>
+      <pubDate>Sat, 18 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</guid>
+      <description>A small subset of the Lake Winnipeg telemetry data is collected. The purpose is to analyze this data to find out interesting insights about the fish inhabitants. A few highlights are as follows: the distribution of different species, the certain area where specific species can be found, and the time period of their perambulation. The data has the following attributes:
+ Date - A timestamp for when a receiver (station) detects a transmitter detection Name - A unique station name for each receiver in the study ReceiverLong - The longitude of the receiver ReceiverLat - The latitude of the receiver FishID - A unique identifier for each species tagged in the study Species - Species of the tagged fish  This Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>eExpense: A smart approach to track everyday expenses - Android, Java, Tesseract-OCR</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-eexpense/</link>
       <pubDate>Thu, 16 Mar 2017 11:00:59 -0400</pubDate>

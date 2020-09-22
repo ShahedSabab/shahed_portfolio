@@ -409,7 +409,28 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/data-analysis/</loc>
+    <lastmod>2017-03-18T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-telemetryr/</loc>
+    <lastmod>2017-03-18T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/tags/java/</loc>
+    <lastmod>2017-03-18T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/r/</loc>
     <lastmod>2017-03-18T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
