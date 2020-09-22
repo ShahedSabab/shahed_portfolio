@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/visualization/</link>
+    <description>Recent content in Visualization on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Earthquake Prediction Dashboard - Spark, Tableau, MongoDB</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</link>
+      <pubDate>Sun, 02 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</guid>
+      <description>The objective is to report the prediction of the earthquake from the historical data. A machine learning model is trained with historical data of the world related to earthquakes from 1965-2016. The data includes geographical location and magnitude of the earthquakes (23.5k samples). The model predicts earthquake magnitude for the year of 2017. Finally, a dashboard is created to visualize the prediction in addition to the historical analysis on the data.</description>
+    </item>
+    
+    <item>
+      <title>COVID 19 USA Dashboard - Tableau</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-usdashboard/</link>
+      <pubDate>Mon, 27 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-usdashboard/</guid>
+      <description>An interactive visualization dashboard including different states&amp;rsquo; (of USA) confirmed cases and the number of deaths. The visualization presents different calculations such as top N states (i.e., N can be changed from the dashboard) with total confirmed cases and deaths, new cases and deaths; case fatality rates (CFR) on time series data collected from https://github.com/nytimes/covid-19-data. The interactive dashboard is created using Tableau Desktop. Different pie charts, maps, line charts, and stack bars are used in this visualization.</description>
+    </item>
+    
+    <item>
+      <title>COVID 19 World Visualization Dashboard - Tableau</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-worlddashboard/</link>
+      <pubDate>Sun, 26 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-worlddashboard/</guid>
+      <description>The dashboard presents an interactive visualization of the latest COVID-19 updates. It includes the trend line of the time series data, geographic map, cumulative &amp;amp; newly confirmed, active, death, and recovered cases. It also presents a calculation on Case Fatality Rate (CFR), confirmed &amp;amp; death cases in 100,000. The regular update is taken from https://github.com/datasets/covid-19. Data is preprocessed using Tableau prep builder. Tableau is used for the visualization. In this visualization, users can drill down to the country to see region-specific details (new cases and trends) and also overall comparisons among different regions.</description>
+    </item>
+    
+    <item>
+      <title>Web Dashboard on Canadian Wheat Production - Tableau, D3 js, Chart js, Angular js</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-wheatproduction/</link>
+      <pubDate>Sun, 26 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-wheatproduction/</guid>
+      <description>The purpose of this project is to gain insights into the agricultural market data of different commodities, e.g., Wheat, Corn, Barley, Oats etc. and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
+ The UI supports responsive layouts. For developing the visualizations, PSD Grain Data_small.</description>
+    </item>
+    
+    <item>
+      <title>DynamicViz: Change data in real time. - Tableau, Django, REST API</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</link>
+      <pubDate>Sat, 25 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-dynamicviz/</guid>
+      <description>The objective of this project is to develop a dynamic dashboard in Tableau which can update the data source. The dataset for this visualization includes wheat consumption (domestic, fsi, feed dom., etc) in Canada over 20 years timeline.
+ XAMPP is used to host the data in a local server. The data is fetched from the local server into Tableau. The Tableau dashboard presents a crosstab and a line chart of the time series data.</description>
+    </item>
+    
+  </channel>
+</rss>

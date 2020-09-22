@@ -29,5 +29,15 @@
       <description>The objective is to detect patients with Parkinson&amp;rsquo;s Disease (PD) from the voice samples. The training data includes voice measurements such as average, maximum, and minimum vocal fundamental frequency, several measures of variation in fundamental frequency, variation in amplitudes, ratio of noise to tonal components, signal fractal scaling exponent and nonlinear measures of fundamental frequency variation. From these measurements, feature-selection (filter and wrapper method) is performed to select essential features for detecting Parkinson.</description>
     </item>
     
+    <item>
+      <title>House Price Prediction - Regression</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-houseprice/</link>
+      <pubDate>Mon, 20 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-houseprice/</guid>
+      <description>The objecive of this project is to predict house price from different features. The dataset includes 1460 instances and 80 features. The following algorithms are applied as on selected features from the data:
+Applied Algorithms:  Linear Regression  Decision Tree  SVM  Random Forest  AdaBoost  GradientBoost  XGBoost  Feature selection is performed using Parson Correlation.  Feature imputation, encoding, and scaling is performed.  The best performance achieved is R-square = 0.</description>
+    </item>
+    
   </channel>
 </rss>

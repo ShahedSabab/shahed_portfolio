@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/big-data/</link>
+    <description>Recent content in Big Data on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Earthquake Prediction Dashboard - Spark, Tableau, MongoDB</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</link>
+      <pubDate>Sun, 02 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</guid>
+      <description>The objective is to report the prediction of the earthquake from the historical data. A machine learning model is trained with historical data of the world related to earthquakes from 1965-2016. The data includes geographical location and magnitude of the earthquakes (23.5k samples). The model predicts earthquake magnitude for the year of 2017. Finally, a dashboard is created to visualize the prediction in addition to the historical analysis on the data.</description>
+    </item>
+    
+    <item>
+      <title>Stroke Prediction - Spark, MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-storke/</link>
+      <pubDate>Wed, 29 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-storke/</guid>
+      <description>The objective is to predict brain stroke from patient&amp;rsquo;s records such as age, bmi score, heart problem, hypertension and smoking practice. The dataset includes 100k patient records. Among the records, 1.5% of them are related to stroke patients and the remaining 98.5% of them are related to non-stroke patients. Therefore, the data is extremely imbalanced.
+The dataset is collected from https://bigml.com/dashboard/dataset/5e92c6d14f6bfd2dd00044a9
+ Dataproc and Google Cloud Platform is used to set up spark clusters.</description>
+    </item>
+    
+    <item>
+      <title>Customer Churn Detection - Spark, MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-churn/</link>
+      <pubDate>Wed, 22 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-churn/</guid>
+      <description>The dataset includes different information about customers. The objective is to predict customer churn from the data. The input data is highly imbalanced consisting 150 churn (i.e., churn = 1) and 750 no churn (i.e., churn = 0) customers. Check the customer_churn.csv dataset for details.
+ MLlib and PySpark is used to build the model.  Feature vectorization is performed to convert the categorical features. Random undersampling is performed to the majority class (i.</description>
+    </item>
+    
+    <item>
+      <title>Spam Detection - Spark, MLib</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-spam/</link>
+      <pubDate>Tue, 21 Mar 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-spam/</guid>
+      <description>The objective of this project is to detect spam messages. The dataset includes tagged SMS messages. It contains 5,574 English SMS messages in total; tagged as ham or spam. Check the SMSSpamCollection dataset for details.
+ MLlib with PySpark is used to build the model.  Preprocessing steps are performed and feature engineering is applied using TF-IDF. Logistic regression, Random Forest and Naive Bayes are used for classifications. The best performance is achieved for the Logistic regression with 97% accuracy.</description>
+    </item>
+    
+  </channel>
+</rss>

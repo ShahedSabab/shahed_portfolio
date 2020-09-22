@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/application/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/tags/computer-vision/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -59,6 +66,13 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/nlp/</loc>
+    <lastmod>2017-04-07T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/tags/topic-modeling/</loc>
     <lastmod>2017-04-07T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,13 +87,6 @@
   </url>
   
   <url>
-    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/nlp/</loc>
-    <lastmod>2017-04-06T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/</loc>
     <lastmod>2017-04-06T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -88,6 +95,13 @@
   
   <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-licenseplate/</loc>
+    <lastmod>2017-04-06T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/object-detection/</loc>
     <lastmod>2017-04-06T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -185,6 +199,13 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/big-data/</loc>
+    <lastmod>2017-04-02T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-earthquake/</loc>
     <lastmod>2017-04-02T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -206,6 +227,13 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/regression/</loc>
+    <lastmod>2017-04-02T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/tags/spark/</loc>
     <lastmod>2017-04-02T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -220,8 +248,22 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/visualization/</loc>
+    <lastmod>2017-04-02T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-weather/</loc>
     <lastmod>2017-04-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/forecast/</loc>
+    <lastmod>2017-03-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -277,13 +319,6 @@
   
   <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-food/</loc>
-    <lastmod>2017-03-28T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/regression/</loc>
     <lastmod>2017-03-28T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -403,13 +438,6 @@
   
   <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-eyepointer/</loc>
-    <lastmod>2017-03-19T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/object-detection/</loc>
     <lastmod>2017-03-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
