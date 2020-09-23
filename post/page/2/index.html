@@ -272,16 +272,12 @@
       </div>
     
     <h1 class="f3 near-black">
-      <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-question/" class="link black dim">
-        Question Classification - SVM, Logistic Regression, LSTM, BERT, Doc2Vec, TF-IDF
+      <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-embedding/" class="link black dim">
+        Refining Word Embeddings - Word2Vec, Glove, FastText, LexVec
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      The objective is to build a question classification model. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM).
-To investigate different approaches, the following data is used (downloaded from https://cogcomp.seas.upenn.edu/Data/QA/QC/):
-Training set 5(5500 labeled questions) Test set: TREC 10 questions
-Different data analyses have been performed and four different models are trained. The models are the followings:
-  Tf-Idf + SVM: Tf-Idf is used for vectorizing texts and a linear model (i.
+      The objective is to implement different word embeddings and investigate the performance on a dataset. For this task, the chosen dataset includes tweets about disasters, e.g., earthquake, wildfire. Among the tweets, some are fake and some are real. So, there are two labels such as 1:Real tweet and 0: Fake tweet. This data has been chosen so that we can see if the features extracted using different embedding techniques can retain distinguishable information to detect which tweet is fake and which one is real.
     </div>
   </div>
 

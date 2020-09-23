@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Refining Word Embeddings - Word2Vec, Glove, FastText, LexVec</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-embedding/</link>
+      <pubDate>Wed, 05 Apr 2017 11:02:59 -0300</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-embedding/</guid>
+      <description>The objective is to implement different word embeddings and investigate the performance on a dataset. For this task, the chosen dataset includes tweets about disasters, e.g., earthquake, wildfire. Among the tweets, some are fake and some are real. So, there are two labels such as 1:Real tweet and 0: Fake tweet. This data has been chosen so that we can see if the features extracted using different embedding techniques can retain distinguishable information to detect which tweet is fake and which one is real.</description>
+    </item>
+    
+    <item>
       <title>Question Classification - SVM, Logistic Regression, LSTM, BERT, Doc2Vec, TF-IDF</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-question/</link>
       <pubDate>Wed, 05 Apr 2017 11:01:59 -0300</pubDate>
