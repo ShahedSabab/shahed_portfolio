@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSTM on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/lstm/</link>
+    <description>Recent content in LSTM on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2017 11:01:59 -0300</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Question Classification - Classification, SVM, LSTM, BERT, Doc2Vec, TF-IDF</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-question/</link>
+      <pubDate>Wed, 05 Apr 2017 11:01:59 -0300</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-question/</guid>
+      <description>The objective is to build a question classification model. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM).
+To investigate different approaches, the following data is used (downloaded from https://cogcomp.seas.upenn.edu/Data/QA/QC/):
+Training set 5(5500 labeled questions) Test set: TREC 10 questions
+Different data analyses have been performed and four different models are trained. The models are the followings:
+  Tf-Idf + SVM: Tf-Idf is used for vectorizing texts and a linear model (i.</description>
+    </item>
+    
+  </channel>
+</rss>

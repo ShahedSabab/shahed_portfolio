@@ -143,6 +143,27 @@
   </url>
   
   <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/bert/</loc>
+    <lastmod>2017-04-05T11:01:59-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/tags/lstm/</loc>
+    <lastmod>2017-04-05T11:01:59-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahedsabab.github.io/shahed_portfolio/post/project-question/</loc>
+    <lastmod>2017-04-05T11:01:59-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://shahedsabab.github.io/shahed_portfolio/tags/docker/</loc>
     <lastmod>2017-04-05T11:00:59-03:00</lastmod>
     <changefreq>monthly</changefreq>
