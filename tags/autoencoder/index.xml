@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autoencoder on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/autoencoder/</link>
+    <description>Recent content in Autoencoder on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2017 11:11:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/autoencoder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credit Card Fraud Detection - Autoencoder, KNN, SVM, MLP</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-creditfraud/</link>
+      <pubDate>Wed, 05 Apr 2017 11:11:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-creditfraud/</guid>
+      <description>The purpose of this project is to leverage machine learning and find out fraudulent transactions of the credit cards. The idea is to prevent fraudulent activity only by analyzing credit card transaction data. The transaction data that has been used is highly imbalanced, having only 0.2% fraud cases. The overall challenge is to make a supervised model that can detect fraud transactions from normal transactions. The data can be found in the following link:</description>
+    </item>
+    
+  </channel>
+</rss>
