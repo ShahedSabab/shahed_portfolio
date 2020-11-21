@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Means on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/k-means/</link>
+    <description>Recent content in K Means on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2017 11:11:57 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/k-means/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Movie Recommender - K Means</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-movierecommender/</link>
+      <pubDate>Wed, 05 Apr 2017 11:11:57 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-movierecommender/</guid>
+      <description>The objective is to develop a simple movie recommender model that leverages user-ratings to recommend unseen movies to the users. Based on the movie-rating patterns of users, different clusters are formed. Each cluster groups together users with similar movie choices and ratings. This knowledge is later used to provide personalized movie recommendations. The data is collected from MovieLens dataset (small), which contains 100,000 ratings of 9000 movies (rated by 600 users).</description>
+    </item>
+    
+  </channel>
+</rss>
