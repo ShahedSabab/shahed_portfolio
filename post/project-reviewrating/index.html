@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>TutVis: A Tool to Visualize Tutorials - Topic Modeling(LDA), Random Forest, Angular js | Shahed Anzarus Sabab</title>
+    <title>Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa | Shahed Anzarus Sabab</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="generator" content="Hugo 0.73.0" />
     
@@ -26,23 +26,23 @@
 
     
     
-    <meta property="og:title" content="TutVis: A Tool to Visualize Tutorials - Topic Modeling(LDA), Random Forest, Angular js" />
-<meta property="og:description" content="A machine annotated tutorial browsing system." />
+    <meta property="og:title" content="Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa" />
+<meta property="og:description" content="This projects classifies sentiment ratings of hotel reviews" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://shahedsabab.github.io/shahed_portfolio/post/project-tutvis/" />
-<meta property="article:published_time" content="2017-04-07T11:00:59-04:00" />
-<meta property="article:modified_time" content="2017-04-07T11:00:59-04:00" />
-<meta itemprop="name" content="TutVis: A Tool to Visualize Tutorials - Topic Modeling(LDA), Random Forest, Angular js">
-<meta itemprop="description" content="A machine annotated tutorial browsing system.">
-<meta itemprop="datePublished" content="2017-04-07T11:00:59-04:00" />
-<meta itemprop="dateModified" content="2017-04-07T11:00:59-04:00" />
-<meta itemprop="wordCount" content="185">
+<meta property="og:url" content="https://shahedsabab.github.io/shahed_portfolio/post/project-reviewrating/" />
+<meta property="article:published_time" content="2017-04-05T11:11:58-04:00" />
+<meta property="article:modified_time" content="2017-04-05T11:11:58-04:00" />
+<meta itemprop="name" content="Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa">
+<meta itemprop="description" content="This projects classifies sentiment ratings of hotel reviews">
+<meta itemprop="datePublished" content="2017-04-05T11:11:58-04:00" />
+<meta itemprop="dateModified" content="2017-04-05T11:11:58-04:00" />
+<meta itemprop="wordCount" content="212">
 
 
 
-<meta itemprop="keywords" content="Application,NLP,Angular,Topic Modeling,Classification," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="TutVis: A Tool to Visualize Tutorials - Topic Modeling(LDA), Random Forest, Angular js"/>
-<meta name="twitter:description" content="A machine annotated tutorial browsing system."/>
+<meta itemprop="keywords" content="NLP,Classificaiton,Transfer Learning," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa"/>
+<meta name="twitter:description" content="This projects classifies sentiment ratings of hotel reviews"/>
 
 	
   </head>
@@ -55,7 +55,7 @@
 
   
   
-  <header class="cover bg-top" style="background-image: url('https://shahedsabab.github.io/shahed_portfolio/images/tutVis.png');">
+  <header class="cover bg-top" style="background-image: url('https://shahedsabab.github.io/shahed_portfolio/images/hotelReview.jpg');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -210,10 +210,10 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">TutVis: A Tool to Visualize Tutorials - Topic Modeling(LDA), Random Forest, Angular js</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              A machine annotated tutorial browsing system.
+              This projects classifies sentiment ratings of hotel reviews
             </h2>
           
         
@@ -233,46 +233,39 @@
         
       </aside>
 
-      <h1 class="f1 athelas mt3 mb1">TutVis: A Tool to Visualize Tutorials - Topic Modeling(LDA), Random Forest, Angular js</h1>
+      <h1 class="f1 athelas mt3 mb1">Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa</h1>
       
       
-      <time class="f6 mv3 dib tracked" datetime="2017-04-07T11:00:59-04:00">
+      <time class="f6 mv3 dib tracked" datetime="2017-04-05T11:11:58-04:00">
 
       </time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Online text and video tutorials are among the most popular and heavily used resources for learning feature-rich software applications (e.g., Photoshop, Weka, AutoCAD, Fusion 360). However, when searching, users can find it difficult to assess whether a tutorial is designed for their level of expertise. TutVis stands for tutorial visualization, which is a Photoshop tutorial browsing system that provides auto-generated information to assist users in the tutorial searching and selection. The provided information is as follows: difficulty level (advanced/beginner), topics covered, length, text complexity, command usage ratio. This information is automatically calculated using different supervised and unsupervised machine learning algorithms.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>This project aims to classify ratings of the hotel reviews. There are 5 ratings (i.e., class) in the dataset along with the reviews. The dataset is quite balanced among the 5 classes. The objective is to develop two different classification models i.e., a baseline and a state of the art(SOTA) model to compare the performance of classifying ratings. To uncover interesting insights from the data, different exploratory analysis have been performed. Also, the dataset includes unstructured data (i.e., reviews) which need further conversion (e.g.,vectorization) before this can be used in any machine learning model. Different approaches have been followed for developing the models.</p>
+<p>Baseline Model (TF-IDF + Logistic Regression): The baseline model consists of a simple vectorization (i.e., feature engineering) approach using TF-IDF. The resultant vectorized texts are then used for classification using Logistic Regression. Overall, 75.8 % accuracy is achieved from this model.</p>
+<p>SOTA Model (RoBERTa): The SOTA model leverages transfer learning and a custom RoBERTa model to classify the reviews. Overall, 79% accuracy is achieved from this model.</p>
 <ul>
-<li>The browsing interface is developed using angular js, node js, d3 js, chart js, and bootstrap.<!-- raw HTML omitted --></li>
-<li>The training data (1300 text and video tutorials of Photoshop and Fusion 360) are scrapped from 13 different sources. <!-- raw HTML omitted --></li>
-<li>The information/features are generated (feature engineering) using the topic modeling algorithm (LDA), readability formulas, and heuristic calculations. <!-- raw HTML omitted --></li>
-<li>For the classification of the tutorial’s difficulty Random Forest algorithm is used.<!-- raw HTML omitted --></li>
-<li>The classification model can classify a tutorial&rsquo;s difficulty (advanced/beginner) with 85% accuracy.</li>
+<li>The base model uses Tf-Idf and logistic regression.</li>
+<li>Pytorch is used to develop the SOTA model.</li>
+<li>The SOTA model uses Hugging face &lsquo;roberta-base&rsquo; pretrained model.</li>
+<li>Dropout has been performed to reduce overfitting.</li>
+<li>The best model(SOTA) achieves 79% accuracy.</li>
 </ul>
-<p>Publication Source: <a href="https://ieeexplore.ieee.org/abstract/document/9127271">Check the publication</a></p>
-<p><a href="https://github.com/ShahedSabab/TutVis">This Project&rsquo;s GitHub Repository</a></p>
+<p><a href="https://github.com/ShahedSabab/hotel-reviews-sentiment-analysis">This Project&rsquo;s GitHub Repository</a></p>
 <ul class="pa0">
-  
-   <li class="list">
-     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/application" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Application</a>
-   </li>
   
    <li class="list">
      <a href="https://shahedsabab.github.io/shahed_portfolio/tags/nlp" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">NLP</a>
    </li>
   
    <li class="list">
-     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/angular" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Angular</a>
+     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/classificaiton" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Classificaiton</a>
    </li>
   
    <li class="list">
-     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/topic-modeling" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Topic Modeling</a>
-   </li>
-  
-   <li class="list">
-     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/classification" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Classification</a>
+     <a href="https://shahedsabab.github.io/shahed_portfolio/tags/transfer-learning" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Transfer Learning</a>
    </li>
   
 </ul>
@@ -292,23 +285,7 @@
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/">Sentiment Analysis from Health and Fitness app reviews - BERT</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-loan/">Customer Loan Enquiry - ANN, Django</a>
-        </li>
-	    
-	     <li  class="mb2">
           <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-question/">Question Classification - SVM, Logistic Regression, LSTM, BERT, Doc2Vec, TF-IDF</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-heartdisease/">Heart Disease Prediction - Classification, Flask, Streamlit, Docker, Feature Selection</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-news/">News Classification - LSTM</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -320,35 +297,11 @@
         </li>
 	    
 	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-airquality/">PhenomDetect: Detection of Air Hazards in the U. S.- SVM, Random Forest, Gradient Boost, XGBoost, KNN, LSTM, GRU, Tableau</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-creditfraud/">Credit Card Fraud Detection - Autoencoder, KNN, SVM, MLP</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-reviewrating/">Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa</a>
-        </li>
-	    
-	     <li  class="mb2">
           <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-embedding/">Refining Word Embeddings - Word2Vec, Glove, FastText, LexVec</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-parkinsons/">Analysis of Parkinson Patient - Feature Selection, Classification</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-storke/">Stroke Prediction - Spark, MLib</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-wheatproduction/">Web Dashboard on Canadian Wheat Production - Tableau, D3 js, Chart js, Angular js</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-digit/">Handwritten Digits Classification - CNN</a>
+          <a href="https://shahedsabab.github.io/shahed_portfolio/post/project-news/">News Classification - LSTM</a>
         </li>
 	    
     </ul>

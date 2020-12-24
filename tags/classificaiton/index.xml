@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classificaiton on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/classificaiton/</link>
+    <description>Recent content in Classificaiton on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2017 11:11:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/classificaiton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-reviewrating/</link>
+      <pubDate>Wed, 05 Apr 2017 11:11:58 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-reviewrating/</guid>
+      <description>This project aims to classify ratings of the hotel reviews. There are 5 ratings (i.e., class) in the dataset along with the reviews. The dataset is quite balanced among the 5 classes. The objective is to develop two different classification models i.e., a baseline and a state of the art(SOTA) model to compare the performance of classifying ratings. To uncover interesting insights from the data, different exploratory analysis have been performed.</description>
+    </item>
+    
+  </channel>
+</rss>

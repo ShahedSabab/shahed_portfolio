@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Hotel Review Sentiment Analysis - Tf-Idf, Logistic Regression, RoBERTa</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-reviewrating/</link>
+      <pubDate>Wed, 05 Apr 2017 11:11:58 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-reviewrating/</guid>
+      <description>This project aims to classify ratings of the hotel reviews. There are 5 ratings (i.e., class) in the dataset along with the reviews. The dataset is quite balanced among the 5 classes. The objective is to develop two different classification models i.e., a baseline and a state of the art(SOTA) model to compare the performance of classifying ratings. To uncover interesting insights from the data, different exploratory analysis have been performed.</description>
+    </item>
+    
+    <item>
       <title>Movie Recommender - K Means</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-movierecommender/</link>
       <pubDate>Wed, 05 Apr 2017 11:11:57 -0400</pubDate>
