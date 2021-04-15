@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Automatic Topic Extraction from Documents - LDA, Top2Vec</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-topic/</link>
+      <pubDate>Fri, 07 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-topic/</guid>
+      <description>The objective is to develop an automated tool, which can find out topics from any article. Different topic modeling techniques are investigated for this topic extraction task. For the investigation, yahoo answer dataset has been chosen. The dataset has ~1.5M question-answer pairs. Only 60,000 samples has been randomly chosen from the data. From the selected data, only the answers are used to train the models. The models are trained using LDA and Top2Vec.</description>
+    </item>
+    
+    <item>
       <title>Sentiment Analysis from Health and Fitness app reviews - BERT</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-sentiment/</link>
       <pubDate>Thu, 06 Apr 2017 11:00:59 -0400</pubDate>
