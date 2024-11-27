@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>AIAvengers: Harnessing Multi-Agent Networks for Intelligent Automation in Review Responses and Data Analysis</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-multiagent/</link>
+      <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-multiagent/</guid>
+      <description>AI Avengers is a cutting-edge project designed to harness the power of multi-agent networks for advanced automation in two key domains:
+ Response Generation: Streamlining customer review responses with Crew AI. Data Analysis: Transforming user inquiries into insightful visualizations with LangGraph.   🔹 Response Generation Agent The Response Generation Agent automates customer review responses by assigning tasks to specialized crews:
+ Categorizer: Analyzes and categorizes reviews based on type and urgency.</description>
+    </item>
+    
+    <item>
       <title>Face Mask Detection - ResNet, OpenCV</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/post/project-mask/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/llm/</link>
+    <description>Recent content in LLM on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:12:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AIAvengers: Harnessing Multi-Agent Networks for Intelligent Automation in Review Responses and Data Analysis</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-multiagent/</link>
+      <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-multiagent/</guid>
+      <description>AI Avengers is a cutting-edge project designed to harness the power of multi-agent networks for advanced automation in two key domains:
+ Response Generation: Streamlining customer review responses with Crew AI. Data Analysis: Transforming user inquiries into insightful visualizations with LangGraph.   🔹 Response Generation Agent The Response Generation Agent automates customer review responses by assigning tasks to specialized crews:
+ Categorizer: Analyzes and categorizes reviews based on type and urgency.</description>
+    </item>
+    
+  </channel>
+</rss>
