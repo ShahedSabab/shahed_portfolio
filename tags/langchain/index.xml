@@ -17,9 +17,8 @@
       <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-multiagent/</guid>
-      <description>AI Avengers is a cutting-edge project designed to harness the power of multi-agent networks for advanced automation in two key domains:
- Response Generation: Streamlining customer review responses with Crew AI. Data Analysis: Transforming user inquiries into insightful visualizations with LangGraph.   🔹 Response Generation Agent The Response Generation Agent automates customer review responses by assigning tasks to specialized crews:
- Categorizer: Analyzes and categorizes reviews based on type and urgency.</description>
+      <description>AI Avengers is an innovative project that uses multi-agent networks to automate two main tasks. It improves response generation by using Crew AI to quickly and effectively reply to customer reviews, making interactions more personal and efficient. It also boosts data analysis by turning user questions into clear, visual insights with LangGraph, helping businesses understand their data better and make smarter decisions.
+ Response Generation: Streamlining customer review responses with Crew AI.</description>
     </item>
     
   </channel>

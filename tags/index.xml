@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Shahed Anzarus Sabab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:12:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 11:12:59 -0400</lastBuildDate>
     
 	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GenAI</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/genai/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/genai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradio</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/gradio/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/gradio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Graph</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/knowledge-graph/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/knowledge-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/llm/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neo4j</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/neo4j/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/neo4j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAG</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/tags/rag/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/rag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Agent</title>
@@ -30,29 +84,11 @@
     </item>
     
     <item>
-      <title>GenAI</title>
-      <link>https://shahedsabab.github.io/shahed_portfolio/tags/genai/</link>
-      <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
-      
-      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/genai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Langchain</title>
       <link>https://shahedsabab.github.io/shahed_portfolio/tags/langchain/</link>
       <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/tags/langchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LLM</title>
-      <link>https://shahedsabab.github.io/shahed_portfolio/tags/llm/</link>
-      <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
-      
-      <guid>https://shahedsabab.github.io/shahed_portfolio/tags/llm/</guid>
       <description></description>
     </item>
     

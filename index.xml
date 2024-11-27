@@ -6,10 +6,19 @@
     <description>Recent content in Shahed&#39;s Portfolio on Shahed Anzarus Sabab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:12:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 11:12:59 -0400</lastBuildDate>
     
 	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hybrid GraphRAG: Revolutionizing AI Responses with Knowledge Graphs and Retrieval-Augmented Generation</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-graphrag/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-graphrag/</guid>
+      <description>In the rapidly evolving fields of artificial intelligence and natural language processing, Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm. By combining the strengths of retrieval-based and generative models, RAG systems can leverage vast information repositories to generate highly relevant and contextually rich responses. However, as the complexity and volume of data grow, the need for more advanced techniques becomes clear. This is where knowledge graphs play a pivotal role.</description>
+    </item>
     
     <item>
       <title>AIAvengers: Harnessing Multi-Agent Networks for Intelligent Automation in Review Responses and Data Analysis</title>
@@ -17,9 +26,8 @@
       <pubDate>Mon, 10 Apr 2017 11:12:59 -0400</pubDate>
       
       <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-multiagent/</guid>
-      <description>AI Avengers is a cutting-edge project designed to harness the power of multi-agent networks for advanced automation in two key domains:
- Response Generation: Streamlining customer review responses with Crew AI. Data Analysis: Transforming user inquiries into insightful visualizations with LangGraph.   🔹 Response Generation Agent The Response Generation Agent automates customer review responses by assigning tasks to specialized crews:
- Categorizer: Analyzes and categorizes reviews based on type and urgency.</description>
+      <description>AI Avengers is an innovative project that uses multi-agent networks to automate two main tasks. It improves response generation by using Crew AI to quickly and effectively reply to customer reviews, making interactions more personal and efficient. It also boosts data analysis by turning user questions into clear, visual insights with LangGraph, helping businesses understand their data better and make smarter decisions.
+ Response Generation: Streamlining customer review responses with Crew AI.</description>
     </item>
     
     <item>

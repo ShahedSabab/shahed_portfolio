@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Graph on Shahed Anzarus Sabab</title>
+    <link>https://shahedsabab.github.io/shahed_portfolio/tags/knowledge-graph/</link>
+    <description>Recent content in Knowledge Graph on Shahed Anzarus Sabab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 11:12:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://shahedsabab.github.io/shahed_portfolio/tags/knowledge-graph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hybrid GraphRAG: Revolutionizing AI Responses with Knowledge Graphs and Retrieval-Augmented Generation</title>
+      <link>https://shahedsabab.github.io/shahed_portfolio/post/project-graphrag/</link>
+      <pubDate>Tue, 11 Apr 2017 11:12:59 -0400</pubDate>
+      
+      <guid>https://shahedsabab.github.io/shahed_portfolio/post/project-graphrag/</guid>
+      <description>In the rapidly evolving fields of artificial intelligence and natural language processing, Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm. By combining the strengths of retrieval-based and generative models, RAG systems can leverage vast information repositories to generate highly relevant and contextually rich responses. However, as the complexity and volume of data grow, the need for more advanced techniques becomes clear. This is where knowledge graphs play a pivotal role.</description>
+    </item>
+    
+  </channel>
+</rss>
